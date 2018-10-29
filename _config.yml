@@ -104,3 +104,5 @@ friends: [
         href: "https://ruohong2018.github.io/"
     }
 ]
+
+theme: jekyll-theme-cayman
